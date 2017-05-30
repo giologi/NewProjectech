@@ -1,0 +1,19 @@
+.detailsPage {
+  margin-top: 100px;
+
+  img {
+    width: 200px;
+    height: 200px;
+    float: left;
+  }
+
+  div {
+    width: calc(100% - 200px);
+    float: left;
+    text-align: center;
+
+    h1 {
+      color: #ffffff;
+    }
+  }
+}
